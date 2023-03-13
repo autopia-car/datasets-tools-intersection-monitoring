@@ -1,0 +1,1 @@
+Tools for the dataset "Intersection Monitoring: A dataset for vehicle detection using an infrastructure camera including ground truth vehicle localization" available at https://doi.org/10.5281/zenodo.7727882
